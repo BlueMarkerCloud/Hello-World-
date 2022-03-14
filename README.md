@@ -1,2 +1,1 @@
-# Maethe
-A bot for twitter 
+# hello world em que?
